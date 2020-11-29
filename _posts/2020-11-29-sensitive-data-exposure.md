@@ -1,0 +1,3 @@
+# How I accidently found the sensitive data exposure
+
+I was .....
