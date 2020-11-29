@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello World, this is Sourav. I am a security enthusiast and a Bug Bounty hunter. I write about my bug bounty findings on this blog.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sk25081999@gmail.com](mailto:email@domain.com)
