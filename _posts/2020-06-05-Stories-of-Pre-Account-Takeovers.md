@@ -10,6 +10,7 @@ Pre-Account Takeover is a case of Account Takeover where the attacker already ha
 So one fine day I started testing the targets for Pre-Account takeovers. In my case of Pre-Account takeover, these two features should be present on the wesite :
 
 > The website is not verifying email ID after signup.
+
 > The website is providing login via 3rd party accounts like "Login with Google"
 
 
