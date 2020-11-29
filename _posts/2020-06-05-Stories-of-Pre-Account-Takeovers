@@ -1,0 +1,17 @@
+Hello Folks, this is Sourav. Hope you are doing well on the other side of the screen. I am a security enthusiast and bug bounty hunter from India. 
+In this blog I will discuss some of my findings on Pre-Account Takeovers. 
+
+So let's start without wasting much time :
+
+> What is Pre-Account Takeover??
+
+Pre-Account Takeover is a case of Account Takeover where the attacker already have access to the victim's account and then the attacker can observe the victim's behaviour.
+
+So one fine day I started testing the targets for Pre-Account takeovers. In my case of Pre-Account takeover, these two features should be present on the wesite :
+
+> The website is not verifying email ID after signup.
+> The website is providing login via 3rd party accounts like "Login with Google"
+
+
+![login](https://d2x3xhvgiqkx42.cloudfront.net/12345678-1234-1234-1234-1234567890ab/8769cf44-f342-494c-b25f-cc98c9da3e82/2019/05/27/104e9cab-2c11-4c10-8200-38f8ab3ff45c/0189b27a-abd2-4509-91dd-2e9715cbf3f5.png)
+
