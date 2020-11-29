@@ -10,7 +10,7 @@ actions on the account.
 
 So one fine day I started testing the targets for Pre-Account takeovers. So the Pre-Account Takeovers we are discussing in this blog is due to "Improper Oauth Implementation"
 
-! [login](https://d2x3xhvgiqkx42.cloudfront.net/12345678-1234-1234-1234-1234567890ab/8769cf44-f342-494c-b25f-cc98c9da3e82/2019/05/27/104e9cab-2c11-4c10-8200-     38f8ab3ff45c/0189b27a-abd2-4509-91dd-2e9715cbf3f5.png)
+![login](https://d2x3xhvgiqkx42.cloudfront.net/12345678-1234-1234-1234-1234567890ab/8769cf44-f342-494c-b25f-cc98c9da3e82/2019/05/27/104e9cab-2c11-4c10-8200-     38f8ab3ff45c/0189b27a-abd2-4509-91dd-2e9715cbf3f5.png)
 
 
 So you folks might have seen cases where :
